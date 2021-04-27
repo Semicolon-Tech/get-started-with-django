@@ -1,2 +1,2 @@
-# get-started-with-django
-A simple Django project
+# Get started with django
+A sample site
